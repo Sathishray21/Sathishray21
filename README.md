@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Sathishray21
-- 👀 I’m interested in python,SQL,data science
-- 🌱 I’m currently learning data science
-- 📫 How to reach me instagram @iam._.ray_
+- 👋 Hi, I’m @Sathish
+- 👀 I’m Software Developer
+
